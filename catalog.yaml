@@ -1,0 +1,5 @@
+apps:
+  - id: 00000000-0000-0000-0000-000000000000
+    slug: env-probe
+    name: Env Probe
+    required_aie_slots: []
