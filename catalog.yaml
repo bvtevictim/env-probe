@@ -3,3 +3,7 @@ apps:
     slug: env-probe
     name: Env Probe
     required_aie_slots: []
+    roles:
+      - name: user
+        description: Regular app user.
+    default_invite_role: user
